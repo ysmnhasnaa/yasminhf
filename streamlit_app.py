@@ -9,5 +9,7 @@ st.image("20250512_173904.jpg")
 st.write("\n")
 st.subheader("yasmin💝woonhak")
 st.write(
-    "yasmin love baso afunk so much"
+    " • yasmin love chatime so much")
+st.write(
+    "• yasmin love baso afunk so much"
 )
