@@ -14,4 +14,7 @@ st.write(
     "• yasmin love baso afunk so much"
 )
 st.image("20250512_173904.jpg", width=200)
-st.write("bonus pict🫶🏻")
+st.write(
+    "bonus pict🫶🏻"
+)
+
