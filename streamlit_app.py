@@ -5,4 +5,4 @@ st.write(
     "Hope you like it, let's goooow!."
 )
 
-st.image("views/20250421_170624.jpg")
+st.image("views/20250421_170624.jpg",width=200)
