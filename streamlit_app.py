@@ -11,3 +11,4 @@ st.subheader("yasmin💝woonhak")
 st.write(
     "yasmin love baso afunk so much"
 )
+st.image("20250512_173904.jpg")
