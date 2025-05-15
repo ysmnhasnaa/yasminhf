@@ -5,7 +5,7 @@ st.write(
     "Hope you like it, let's goooow!."
 )
 
-st.image("20250512_173904.jpg")
+st.image("views/20250421_170624.jpg")
 st.write("\n")
 st.subheader("yasmin💝woonhak")
 st.write(
@@ -13,3 +13,4 @@ st.write(
 st.write(
     "• yasmin love baso afunk so much"
 )
+st.image("20250512_173904.jpg")
