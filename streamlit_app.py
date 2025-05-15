@@ -6,3 +6,8 @@ st.write(
 )
 
 st.image("views/20250421_170624.jpg",width=200)
+st.write("\n")
+st.subheader("yasmin💝woonhak")
+st.write(
+    "yasmin love baso afunk so much"
+)
